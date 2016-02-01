@@ -3,3 +3,11 @@ http://www.digikey.com/product-detail/en/FT2232HL-REEL/768-1024-1-ND/1986057
 http://www.digikey.com/product-detail/en/ATS120CSM-1/CTX1074CT-ND/2640239
 http://www.digikey.com/product-detail/en/F920J475MPA/478-8120-1-ND/4005674
 http://www.digikey.com/product-detail/en/T491A475M010AT/399-3698-1-ND/819023
+
+headers:
+http://www.digikey.com/product-detail/en/95157-140LF/609-2231-ND/1002546
+http://www.digikey.com/product-detail/en/NPTC202KFMS-RC/S5690-ND/776149
+crystal:
+http://www.digikey.com/product-detail/en/ABM8-12.000MHZ-B2-T/535-9826-1-ND/2001449
+LDO:
+http://www.digikey.com/product-detail/en/AP7215-33YG-13/AP7215-33YG-13DICT-ND/2179740
