@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/ihartwig/repos/raspberrypi-debugger/debugger2/debugger2.sch)
-    (date "Saturday, April 30, 2016 'AMt' 04:12:53 AM")
+    (date "Thursday, May 05, 2016 'AMt' 05:54:33 AM")
     (tool "Eeschema 4.0.0-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -17,7 +17,7 @@
   (components
     (comp (ref P3)
       (value USB_OTG)
-      (footprint Connect:USB_Micro-B)
+      (footprint debugger2-special:USB_Micro-B_SMT)
       (libsource (lib conn) (part USB_OTG))
       (sheetpath (names /) (tstamps /))
       (tstamp 56A9563F))
@@ -776,14 +776,14 @@
       (pins
         (pin (num 1) (name ~) (type input)))))
   (libraries
-    (library (logical memory)
-      (uri "/Library/Application Support/kicad/library/memory.lib"))
-    (library (logical debugger2-special)
-      (uri /Users/ihartwig/repos/raspberrypi-debugger/debugger2/debugger2-special.lib))
     (library (logical device)
       (uri "/Library/Application Support/kicad/library/device.lib"))
     (library (logical conn)
-      (uri "/Library/Application Support/kicad/library/conn.lib")))
+      (uri "/Library/Application Support/kicad/library/conn.lib"))
+    (library (logical debugger2-special)
+      (uri /Users/ihartwig/repos/raspberrypi-debugger/debugger2/debugger2-special.lib))
+    (library (logical memory)
+      (uri "/Library/Application Support/kicad/library/memory.lib")))
   (nets
     (net (code 1) (name /GPIO22_TRST)
       (node (ref U3) (pin 32))
