@@ -10,5 +10,5 @@ The FT2232H dual port USB interface can be used to access JTAG and UART at the s
 ## Development Structure
 
 * **docs**: datasheets and reference schematics this board is based on.
-* **eagle**: rev 1 schematic and board in eagle
+* **debugger**: rev 1 schematic and board in eagle
 * **debugger2**: rev 2+ schematic and board in kicad
