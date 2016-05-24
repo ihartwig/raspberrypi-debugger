@@ -12,3 +12,5 @@ The FT2232H dual port USB interface can be used to access JTAG and UART at the s
 * **docs**: datasheets and reference schematics this board is based on.
 * **debugger**: rev 1 schematic and board in eagle
 * **debugger2**: rev 2+ schematic and board in kicad
+* **RPiDebuggerVCPBlock**: OS X kernel extension to allow using JTAG with serial
+
