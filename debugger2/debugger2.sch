@@ -37,7 +37,7 @@ encoding utf-8
 Sheet 1 1
 Title "Raspberry Pi Debugger"
 Date ""
-Rev "2.1"
+Rev "2.1.2"
 Comp "Carnegie Mellon University"
 Comment1 "Based on FT2232H Mini Module"
 Comment2 "Drawn by: Ian Hartwig"
@@ -439,7 +439,7 @@ U 1 1 56A9946A
 P 3400 2700
 F 0 "C14" H 3410 2770 50  0000 L CNN
 F 1 "4.7u" H 3410 2620 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave" H 3400 2700 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1206" H 3400 2700 50  0001 C CNN
 F 3 "" H 3400 2700 50  0000 C CNN
 	1    3400 2700
 	1    0    0    -1  
@@ -461,7 +461,7 @@ U 1 1 56A99585
 P 3800 1700
 F 0 "C15" H 3810 1770 50  0000 L CNN
 F 1 "4.7u" H 3810 1620 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave" H 3800 1700 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1206" H 3800 1700 50  0001 C CNN
 F 3 "" H 3800 1700 50  0000 C CNN
 	1    3800 1700
 	1    0    0    -1  
@@ -483,7 +483,7 @@ U 1 1 56A99646
 P 3000 1700
 F 0 "C11" H 3010 1770 50  0000 L CNN
 F 1 "4.7u" H 3010 1620 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave" H 3000 1700 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1206" H 3000 1700 50  0001 C CNN
 F 3 "" H 3000 1700 50  0000 C CNN
 	1    3000 1700
 	1    0    0    -1  
@@ -852,7 +852,7 @@ U 1 1 56AA2CB0
 P 1400 6450
 F 0 "C8" H 1410 6520 50  0000 L CNN
 F 1 "4.7u" H 1410 6370 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave" H 1400 6450 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1206" H 1400 6450 50  0001 C CNN
 F 3 "" H 1400 6450 50  0000 C CNN
 	1    1400 6450
 	1    0    0    -1  
@@ -863,7 +863,7 @@ U 1 1 56AA2D33
 P 1000 6450
 F 0 "C5" H 1010 6520 50  0000 L CNN
 F 1 "4.7u" H 1010 6370 50  0000 L CNN
-F 2 "Capacitors_Tantalum_SMD:TantalC_SizeA_EIA-3216_Wave" H 1000 6450 50  0001 C CNN
+F 2 "Capacitors_SMD:C_1206" H 1000 6450 50  0001 C CNN
 F 3 "" H 1000 6450 50  0000 C CNN
 	1    1000 6450
 	1    0    0    -1  
