@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /Users/ihartwig/repos/raspberrypi-debugger/debugger2/debugger2.sch)
-    (date "Wednesday, July 13, 2016 'AMt' 03:45:58 AM")
+    (date "Wednesday, July 20, 2016 'PMt' 02:37:30 PM")
     (tool "Eeschema 4.0.0-stable")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -208,7 +208,7 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 56AA3810))
     (comp (ref R7)
-      (value 0.01)
+      (value 0.05)
       (footprint Resistors_SMD:R_1206)
       (libsource (lib device) (part R))
       (sheetpath (names /) (tstamps /))
@@ -250,8 +250,8 @@
       (sheetpath (names /) (tstamps /))
       (tstamp 56AB9AA7))
     (comp (ref P4)
-      (value CONN_02X20)
-      (footprint debugger2-special:Pin_Header_Straight_TH-SMT_2x20)
+      (value dnp-REF-182665-01)
+      (footprint debugger2-special:Pin_Header_Straight_TH-SMT-NoPaste_2x20)
       (libsource (lib conn) (part CONN_02X20))
       (sheetpath (names /) (tstamps /))
       (tstamp 56AD3143))
