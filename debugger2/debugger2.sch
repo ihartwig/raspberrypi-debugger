@@ -32,7 +32,7 @@ LIBS:debugger2-special
 LIBS:debugger2-cache
 EELAYER 25 0
 EELAYER END
-$Descr A4 11693 8268
+$Descr A3 16535 11693
 encoding utf-8
 Sheet 1 1
 Title "Raspberry Pi Debugger"
